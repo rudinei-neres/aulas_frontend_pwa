@@ -5,7 +5,7 @@ function Cabecalho() {
   return (
     <header className="cabecalho_root">
       <img src="/vite.svg" height={40} />
-      <Avatar nome="RCFN" />
+      <Avatar nome="Rudinei cousseau ferreira neres" />
     </header>
   );
 }
