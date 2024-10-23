@@ -6,7 +6,7 @@ function Rodape() {
   return (
     <footer className="rodape_root">
       <h6>
-        Copyright © {anoAtual} - Todos os direitos
+        Copyright © {anoAtual} - RCFN - Todos os direitos
         reservados.
       </h6>
     </footer>

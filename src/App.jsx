@@ -29,8 +29,9 @@ const router = createBrowserRouter([
     path: 'lista-tarefas',
     element: <PaginaListaTarefas />,
   },
+
   {
-    path: 'desafio-componentes',
+    path: 'PaginaDesafioComponentes',
     element: <PaginaDesafioComponentes />,
   },
 ]);
